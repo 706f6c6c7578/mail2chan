@@ -1,0 +1,47 @@
+mail2chan Gateway [mail2chan@300baud.de] for YAMN and Mixmaster users
+
+Supported chans and their addresses:
+
+Address:						Chan Name:
+
+BM-2cW1Ng7v4Qp3auCAUcoTeo5QFbFBWoMwjR@bitmessage	Arts
+BM-2cUkZLDdrezCxv8q9cuqrm31eQTVry3vgb@bitmessage	Baking & Cooking
+BM-2cWF1cA1TQTU5Z1pvhSFPtxPmQcVxf2NLd@bitmessage	Collectibles
+BM-2cWHDeDwkoGDxHmksZdn8Dv7rCkiJEew1w@bitmessage	Ham Radio
+BM-2cVxWFWFgz9YM6Gv2HBphfGsEbiP57J7bW@bitmessage	Jokes
+BM-2cUDLX4aAFGGYcXp9dX9mgXzT4oG7M5YJm@bitmessage	Movies
+BM-2cTVjPkScBjmTdCiXzU6QjsmVKo2Z1rR1j@bitmessage	Music
+BM-2cTppdE8zXtymXUc2zBLoKypm5CnS6Ljbd@bitmessage	Restaurants
+BM-2cWfwvYLZPaZtQeFFu9daEdrU5qNBK6CwX@bitmessage	Test
+BM-2cUC2yvp5i6siBPWLNrtgPWLrsSbKbyUR4@bitmessage	Travel
+BM-2cX15EkCjRpX9WFP7FAvuDvbv2ebc8kkRa@bitmessage	Veterans
+BM-2cXsJhZ7QQEMctMeWSBStpAVKsVDrduv7a@bitmessage	Yá'át'ééh
+BM-2cU95XpaNNtMZjnapWpuBpkfNvmuWPfDij@bitmessage	שלום
+
+Creating messages for your Mixclient.
+
+Write in your ASCII or UTF-8 editor a message in the following format:
+(we will use the chan 'Test' for this example)
+
+To: mail2chan@300baud.de
+Subject: none (use the word 'none' for uniformity)
+
+---Begin Bitmessage---
+From: BM-2cWfwvYLZPaZtQeFFu9daEdrU5qNBK6CwX@bitmessage
+To: BM-2cWfwvYLZPaZtQeFFu9daEdrU5qNBK6CwX@bitmessage
+Subject: whatever
+
+Your message goes here.
+
+Regards
+Anonymous
+---End Bitmessage---
+
+Replying to messages:
+
+Simply add the word 'Re:' in front of the Subject: text and
+copy/paste from your Bitmessage client the started reply,
+which you like to fill out.
+
+Please note: This is an experimental Gateway. It may break
+often and it may go away. Contact: stefan[at]ctemplar.com
