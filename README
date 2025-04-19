@@ -1,5 +1,8 @@
 mail2chan Gateway [mail2chan@oc2mx.net]
 
+This Gateway uses notbit and a procmail recipe.
+You can also send messages to users.
+
 Supported chans and their addresses:
 
 Address:						                              Chan Name:
