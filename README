@@ -132,7 +132,7 @@ BM-2cToMuE2evSanfBKrTTwvNMdt4kdtPjTgT@bitmessage	срач
 BM-2cW4XRXFS2AJfp6j3Ki9Jvse8Z6aE6tfwP@bitmessage	北京你懂得
 
 Write in your ASCII or UTF-8 editor a message in the following format:
-(we will use the chan 'Test' for this example)
+(we will use the chan 'test' for this example)
 
 To: mail2chan@oc2mx.net
 Subject: none (use the word 'none' for uniformity)
