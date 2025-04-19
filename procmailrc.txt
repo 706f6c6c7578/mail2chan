@@ -1,0 +1,11 @@
+# LOGFILE=$HOME/procmail.log - for Debugging purposes
+# VERBOSE=yes                - when run the first time
+
+:0
+{
+    :0
+    | /bin/sh -c 'export XDG_RUNTIME_DIR=/run/user/1006; \
+        sed -n "/^From: BM-/,\$p" | \
+        /usr/local/bin/notbit-sendmail -s "/run/user/1006/notbit/notbit-ipc" \
+        2>&1 | tee -a "$HOME/procmail.log"'
+}
