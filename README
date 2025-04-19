@@ -2,9 +2,131 @@ mail2chan Gateway [mail2chan@oc2mx.net]
 
 Supported chans and their addresses:
 
-Address:						Chan Name:
+Address:						                              Chan Name:
 
+BM-2cU2wts99Ag8xegqjCN5bdtVJWwA4uf9Vm@bitmessage	4chan
+BM-2cWQx1X9J27Xj2BzPSXYxxG8sxkVinufDJ@bitmessage	711
+BM-2cVZ1Mpm8rWKH9Zx4Aca5MsR3XGdaEbBgN@bitmessage	alt.anonymous.messages
+BM-2cWFXbzGJt9rQJWwHx1sH8FzJnfRHEJKoA@bitmessage	alt.privacy.anon-server
+BM-2cUkb9FC252vSgjyDaojcKf5io5Jw7Uc8h@bitmessage	ALT-RIGHT
+BM-2cTgnEToXUUHnpPh87p74e2H5ayQXZYwvc@bitmessage	amish
+BM-2cTmddpSqGThdUFxCm2mzZZaWsTjgY1h1w@bitmessage	anon
+BM-2cSk2dYBQ1q19b5PvzdKLMs8CDbC9fwTY5@bitmessage	anonymity/privacy/security
+BM-2cVFQygt8LzGGBsUdLVq9gqH7GFr6XGYLN@bitmessage	Anonymous
+BM-2cTaysQSEJ5vNU59PooR3iV14z2q59eEnA@bitmessage	arcane.crypto.shamanism
+BM-2cW2MVH7VVHRRs8teQqXTkdg8Ah8V8CsAJ@bitmessage	astro
+BM-2cUDEsrBSa5nMXLnZFPLjtmhuoJcuUjcUT@bitmessage	atheism
+BM-2cSyQjC68jn8tbEiYXM3XFubimudCpv9Ty@bitmessage	bbs
+BM-2cVwShwBrYbuwRXTyNzqb22UGT48iKr3DV@bitmessage	Bible
+BM-2cXhmj7t4jdj36rwgSXCvoU2VMuGKjoy8i@bitmessage	birds
+BM-2cSisf6N9Vy1TCJRDHhKLektji3MzoxcJK@bitmessage	bitboard
+BM-2cTaAUYQpYLawnBnbGNyHwN3FWVK6aXHzF@bitmessage	BitChirp
+BM-2cUBM2d97WCsVC5jboEu4TLJbRZPCKd9QE@bitmessage	bitcoin
+BM-2cXKopWGMFtB88dPUjTcDfyrTCK56y7yda@bitmessage	Bitcoin
+BM-2cWy7cvHoq3f1rYMerRJp8PT653jjSuEdY@bitmessage	bitmessage
+BM-2cT7XHTa1L1iCiGVdg8AezKnnJf36yHmGc@bitmessage	Bit_Message_JA
+BM-2cWSWXqbS1cbNhJ4qv66CkWDmsMykudGta@bitmessage	blackhat
+BM-2cUyAt4xPDaexJH6Lf4jxUUALJfu6j5w43@bitmessage	books
+BM-2cUErU4PtsEJweFiitfHxqRnwfAxZRvko1@bitmessage	broadcast
+BM-2cUd1d32jwkQgNcLVtmFsmvAx8RhkyiSND@bitmessage	btcollab
+BM-2cUaDRaBmMvMzmJuct4pBxwjpWkPZK3V6g@bitmessage	campfire_talk
+BM-2cT2tttf9oMKMs8DK2ocGCBKJKeh4KYqbt@bitmessage	canary
+BM-2cW1EuTJtT4oaQsQL4Ddg9CNQB8MGQHAu3@bitmessage	chanlist
+BM-2cTDzQVdsAncs1wAhV8MDw7t7jn87Pi1fC@bitmessage	chanosphere
+BM-2cT4ssv6TWCEVfezeKExs618FaKCfE8V5U@bitmessage	chit-chat
+BM-2cVKyCWSzgU6qpUHbYPAn7YX6wNke8MU5o@bitmessage	Christian
+BM-2cXu323gGY4rKvwACZQ84zJG2usNiW7Kss@bitmessage	classical
+BM-2cWEc8LG8uRrcMLZMbuVPr6sgZ368QwTQh@bitmessage	clowns
+BM-2cVjE7br8KfvNztHXuhqqGFzeLmXLb2abn@bitmessage	computerscience
+BM-2cWAgTjqg5rbjqRRWTZTjpfu3A62faJfKR@bitmessage	crypto
+BM-2cWdaAUTrGZ21RzCpsReCk8n86ghu2oY3v@bitmessage	Crypto-Anarchist Federation
+BM-2cVSftARa61jksERhtbmJZ8LKp8F8nymBA@bitmessage	cypherpunk
+BM-2cTQRhPYAeyz4xDywxfe2HaFrrCYGB9URs@bitmessage	darknets
+BM-2cWo4jiV6MPZcYnWHA2qr4UM1kHt5FNK4w@bitmessage	debian
+BM-2cTRp1qjszirZ4mccqkQarP3uGkWaMRzyY@bitmessage	de.comp.security.misc
+BM-2cX93ADEn992Z9uvJY59jEVmvhLgc8jBM6@bitmessage	deepwebforum
+BM-2cUhxyzAMx4gBpuFVbZHcWGHqCP8uv58Gk@bitmessage	de.org.ccc
+BM-2cWcdoaeMyV4dCEC7KQi87s3i8t7GPiUXt@bitmessage	de.soc.datenschutz
+BM-2cWStCToiE6QvuSYWQcSKgDM3dG4mtPz1x@bitmessage	de.test
+BM-2cW4n7pgVhEEDZrYTzckpoNpTQw1fR1eLX@bitmessage	deutsch
+BM-2cXmVeFsigauy4ypDzdombfV1xYDm4wSJp@bitmessage	developBM
+BM-2cUaVpXpgpw72pTq8r6p5V1jwLeuvjHfAP@bitmessage	Discovery
+BM-2cX6nBfS91XYFUoAqAAMJDwQmtHrZQiEt5@bitmessage	dump
+BM-2cVfgtkAVSVp3TX1XKZj4oJ896LU6v9s6Z@bitmessage	ecology
+BM-2cVFPv5GcF26WfYwtJ4cvEAMhzRQurh4Av@bitmessage	español
+BM-2cSmr7ACeZ2jVEdXAEHxAgr7jyhv1herKv@bitmessage	fediverse
+BM-2cVf4AJ5E11LXpaHU19oQwAMPtynNjYRa5@bitmessage	fefe
+BM-2cVW13fXVg4e8UES4N2npYyR6rMhLPZv9F@bitmessage	fidonet
+BM-2cUzsvYoNbKNNuDnJtdPVS2pbSHzNJyqdD@bitmessage	find-new-chan
+BM-2cXvg1u7scY5AqGMh4PEYMXGso18Gsw66R@bitmessage	finger
+BM-2cVgftS8bdcLFUEKPU69AqQGfiVsnTShxV@bitmessage	Francophone
+BM-2cVjsQDghTFJUBim2iL7WbHVob9PdSKy6M@bitmessage	Free energy
+BM-2cUpAYo3gBWTht7j83avdL52TTr3itkqe4@bitmessage	gemini
+BM-2cVNwDtweRgDgftuXKNzvnR9pkBC4b83RT@bitmessage	GetMotivated
+BM-2cUG8MtXVhRA6K63NvGzf6Wh3LaForJ2TK@bitmessage	golang
+BM-2cVAx6QTTM38E1krvrWWvjtxRUogRB3QVA@bitmessage	gopher
+BM-2cT7D6MeRfSpyhas4phMc1SAJAajwas54J@bitmessage	habrahabr
+BM-2cWE8hR6NurzAucRZw1DebAWvJqu9gVFfb@bitmessage	hack
+BM-2cXSGmNxUpzfNUo1efZ2zBjNHVAtWusn4r@bitmessage	Hacking
+BM-2cVV7MSFWRcepJTNWcgEw6a4FZXNw3zfY7@bitmessage	hamburglar
+BM-2cU73Sw5tVY2phnZRj7kTdMu9FKB32FhW9@bitmessage	Haskell
+BM-2cWhA72reAp1CBa8JmspqWRCdw93sDLgiS@bitmessage	hello
+BM-2cVK6guEHez48UbNvnfs4S6RrRxMPiWFy7@bitmessage	hispagatos
+BM-2cWoKXV98EqvRcKZhQmvntCFqpUeWiuRAw@bitmessage	history
+BM-2cUgwuy64AR7LiXx2aBJFSQcP1scfMMphW@bitmessage	I2P
+BM-2cVR7C7mGBruDPMxAG7LmEkKPxKSUpxVgr@bitmessage	insurance
+BM-2cTYg91KEm5fe11V33fdE3HDtqqCt2AGou@bitmessage	jazz
+BM-2cVxWFWFgz9YM6Gv2HBphfGsEbiP57J7bW@bitmessage	Jokes
+BM-2cXPTHq8JsXJDJZBLLThQXpG3iujp7ukRL@bitmessage	jokes no censorship
+BM-2cXcBumwxGeLQr7FKRGHioVpM3KZz7wfbv@bitmessage	leaks
+BM-2cT9uwut8dNuYU8co16nFBTq9n7QR4Mwgn@bitmessage	linux
+BM-2cTyNP5A3hBt3369z2FBcqLGnNESrirepM@bitmessage	marketplace
+BM-2cT6JBA6Qcjp4pwcuxEjUrd2fbBxDqKNV4@bitmessage	Monero
+BM-2cUAr5BjBCCXwDvkxFqFunUHKWf57U7yjK@bitmessage	news
+BM-2cW7H9e2xXSGWqeENyVFsZekoQBRdTcwtr@bitmessage	NoAgenda
+BM-2cWgZ2JobeLXoFxW9thzmcvhQDYCfH3h3E@bitmessage	nobit
+BM-2cUPFNNYcoNbK5nojmyh95oN4PvkNCrbkA@bitmessage	null
+BM-2cUgVSFWkL2Miwk7cC1ebP7Q8QinB86TUX@bitmessage	numberstation
+BM-2cSpkbPAoXFvZgpf17o28He64uUPS3rN4z@bitmessage	onionshare
+BM-2cUhHC4U9ZgzFZkkdLmvYAmUuNpjriFUTa@bitmessage	PGP
+BM-2cStwUiEHBQ7kMUN2RW2a6xDxTDVKSjjxz@bitmessage	poems
+BM-2cThitutfrQTZA4w2yvwYZi98mGcQT6tzN@bitmessage	poker
+BM-2cVE8v7L4qb14R5iU2no9oizkx8MpuvRZ7@bitmessage	Politics
+BM-2cX9uTshtCbunGLKok9MiFMhXmLhS4D47Y@bitmessage	po_polsku
+BM-2cVLVw9uLmGfsxzMkd3E4eSDQo3FLfNtkz@bitmessage	postsecret
+BM-2cUJvFYHhXpBHyd96KHfjxsgTYi44BajdE@bitmessage	privacy
+BM-2cWmcN4ZmWYXhgk8KMnm4CJEWFvdr5diPa@bitmessage	programming
+BM-2cVAqUwa6owJccHVt8gKwaRu3J2uFNcErH@bitmessage	python
+BM-2cVKuqafaF6rTaswwdN3SZna7JKBnFGTzk@bitmessage	Quotes
+BM-2cTAWAxun6JVP5RkRUVV5FUe4xwEVE1coi@bitmessage	radio
+BM-2cVjvz8vKxstikAYgmZ4LrakfJBJcUZY7Z@bitmessage	RETRO
+BM-2cTsabUZ48XnjLNj4r1uwaQG3y1tDNrYmn@bitmessage	ru.crypto-anarchism
+BM-2cUE1v94ERKpLtQFzLSDDGAxjedGK3Lm3r@bitmessage	ru.general
+BM-2cUrxVA9k4JHHkaWXzvkazhQLpduLyiKmo@bitmessage	ru.humor
+BM-2cU9gwL3azGoZJ2DjB9oyaHRMdeQ2jWpbJ@bitmessage	ru.linux
+BM-2cXXKsCmqxRE8QYeboaZKwx2kpFMLsgXHT@bitmessage	russian
+BM-2cVsPz7KY9ziDETwnx8GrWAvG953YUfXur@bitmessage	sci.crypt
+BM-2cW95ewK1zmYRrCq1jGDKuySM14EQW4kR7@bitmessage	SecStash
+BM-2cWSrqxp5GZ8JvYDPsusmqz8gUritZYuhA@bitmessage	sharereactor.ru
+BM-2cXS5MGRaACFTNyXeotfrvFP242owkn5x9@bitmessage	shell
+BM-2cSmSA9gvWgYjFFw17U1PQwWGjrK2Xb5Gj@bitmessage	shoutbox
+BM-2cThvkPfJ2TmJznZfMbhFjsJsWgLExeRuN@bitmessage	Skeptics
+BM-2cVcHu1NLBud6UFJ8NHtCWWNSsxj5z8SMe@bitmessage	space
+BM-2cWGif6WkzBJ4oVtw7BqvPCs92ze61XR3A@bitmessage	synchronet
+BM-2cTcTw1ZuyY4eYffL5dzTCGS5Ud4zP6TVm@bitmessage	/tech/
 BM-2cWFkyuXXFw6d393RGnin2RpSXj8wxtt6F@bitmessage	test
+BM-2cU98uvXELSJ8VM88mEFCPinNujdWVYttg@bitmessage	textfiles
+BM-2cXZiSgkJ8X82JUW74j7YirQvmrcZ23m8H@bitmessage	tilde.club
+BM-2cUJwTUYQLTH7Eqk9JutbvjqnSJdbDiqrn@bitmessage	tildeverse
+BM-2cWJdoXK6Nt75gPXViDvP3SpzyMv2ucCbr@bitmessage	Tox
+BM-2cUGA9CRnRZ95oj7EsCYDU9Z5AMgJnVXXP@bitmessage	travel
+BM-2cTSwGgeYhKCQuUTgLa7zkbegHRVqQz514@bitmessage	Türkçe
+BM-2cXuwMs2tVewNQJz2y58JMPUdANH2tPgJu@bitmessage	usenet
+BM-2cVFHKC263sXfXYF7JU3n4FPLY9HD5H7SC@bitmessage	wikileaks
+BM-2cWNqjzzVDcJpVKe3R356F5Ki4dxx84c4k@bitmessage	wisdom
+BM-2cTYSUR2AG6g3oXkSvqRWsnw3kvDY4ZgL1@bitmessage	ZeroNet
+BM-2cToMuE2evSanfBKrTTwvNMdt4kdtPjTgT@bitmessage	срач
+BM-2cW4XRXFS2AJfp6j3Ki9Jvse8Z6aE6tfwP@bitmessage	北京你懂得
 
 Write in your ASCII or UTF-8 editor a message in the following format:
 (we will use the chan 'Test' for this example)
