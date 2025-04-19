@@ -1,4 +1,4 @@
-# LOGFILE=$HOME/procmail.log - for Debugging purposes
+# LOGFILE=$HOME/procmail.log - for debugging purposes
 # VERBOSE=yes                - when run the first time
 
 :0
