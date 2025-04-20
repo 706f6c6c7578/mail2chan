@@ -2,6 +2,7 @@ mail2chan Gateway [mail2chan@oc2mx.net]
 
 This Gateway uses notbit and a procmail recipe.
 You can also send messages to users.
+notbit uses Tor for traffic with the -T option.
 
 Supported chans and their addresses:
 
@@ -153,5 +154,5 @@ copy/paste from your Bitmessage client the started reply,
 which you like to fill out.
 
 P.S. The example Diagram.png in this repository shows use cases
-for what an m2c Gateway could be used. Not shown in the image is
-the possibility to use Tor for outbound traffic of a Gateway.
+for what an mail2chan Gateway could be used. Not shown in the
+image is the possibility to use Tor for outbound traffic of a Gateway.
